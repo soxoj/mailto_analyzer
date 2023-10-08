@@ -21,6 +21,9 @@ This tool will provide tips based on found services: how to change email address
 
 ## Usage
 
+Install:
+`pip install -r requirements.txt`
+
 Export or download your inbox emails ([Google example](https://www.indeed.com/career-advice/career-development/download-emails-from-gmail)), only MBOX format is currently supported.
 
 `./analyze.py example.mbox`
