@@ -17,7 +17,7 @@ Such tools as [holehe](https://github.com/megadose/holehe) could help you to che
 
 Knowing in which service you are registered, with which name and with which email address (e.g. with a default one), you can decide to update your personal data there or change the email, **complicating the search for your accounts** using tools like holehe.
 
-This tool will provide tips based on found services: how to change email address or remove such accounts completely quickly.
+This tool will provide tips based on found services: how to change email addresses or remove such accounts completely quickly. If you're interested in more theory or other tools, jump to [this section](./README.md#see-also).
 
 ## Usage
 
@@ -29,3 +29,9 @@ Export or download your inbox emails ([Google example](https://www.indeed.com/ca
 `./analyze.py example.mbox`
 
 ![Output](mailto_analyzer.png)
+
+## See also
+
+- [Gobutsu/Conan: helping you delete your old accounts](https://github.com/Gobutsu/Conan)
+- [Counter OSINT guide: using email aliases](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/breach-detection.md#using-aliasesfake-mail-addresses)
+- [Counter OSINT guide: account removal](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/deleteme.md#deletion-request)
